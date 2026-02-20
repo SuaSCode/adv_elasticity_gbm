@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter / Databricks
+.ipynb_checkpoints
+
+# Datos (opcional, si son pesados)
+*.csv
+*.xlsx
