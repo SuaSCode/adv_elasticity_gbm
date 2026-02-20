@@ -5,6 +5,9 @@ __pycache__/
 venv/
 .env
 
+# Bases de Datos
+inputs/
+
 # Jupyter / Databricks
 .ipynb_checkpoints
 
